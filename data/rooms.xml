@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rooms>
+    <room id="1" name="Reinhard Genzel" professor="John" course="Astronomy" shift="AM">
+        <students>
+            <student id="1" name="Adam" shift="AM" />
+            <student id="2" name="Ted" shift="AM" />
+            <student id="3" name="Marry" shift="AM" />
+            <student id="4" name="Anne" shift="AM" />
+        </students>
+    </room>
+    <room id="2" name="Andrea Ghez" professor="Tommy" course="Astronomy" shift="PM">
+        <students>
+            <student id="5" name="Caleb" shift="PM" />
+            <student id="6" name="Lorrayne" shift="PM" />
+            <student id="7" name="Jack" shift="PM" />
+            <student id="8" name="Estephanie" shift="PM" />
+        </students>
+    </room>
+</rooms>
